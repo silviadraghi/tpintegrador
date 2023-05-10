@@ -141,3 +141,24 @@ body{
     background-color: #353A40;
     
 }
+.formu1{
+    font-size: 11px;
+}
+.formu2{
+    font-size: 13px;
+}
+.paraboton{
+    background-color:#96c93e;
+    color: white;
+}
+.parapie{
+    margin-top: 10px;
+    height: 60px;
+    background-color: rgb(2, 2, 65);
+}   
+.parapienav{
+    width: 120px;
+    color: white;
+    font-size: 13px;
+    font-weight: 100;
+}
